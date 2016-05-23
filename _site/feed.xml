@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mary Knize</title>
+    <description>I&#39;m a front-end web developer and indie game developer. JavaScript, HTML, CSS, PHP, C#, Unity 3D. I learn new things every day.
+</description>
+    <link>captainpainway.github.io/</link>
+    <atom:link href="captainpainway.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 22 May 2016 21:36:13 -0400</pubDate>
+    <lastBuildDate>Sun, 22 May 2016 21:36:13 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Today I Learned - Blogging Edition</title>
+        <description>&lt;p&gt;Today I learned that it’s nearly impossible to decide on just one blogging platform. Despite the fact that I hardly ever blog, I want to learn how they all work. WordPress, Ghost, and now Jekyll.&lt;/p&gt;
+
+&lt;p&gt;I also learned that Ruby Gems are a lot like Node. Package managers, I like them.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 May 2016 17:25:02 -0400</pubDate>
+        <link>captainpainway.github.io/today/i/learned/2016/05/22/today-i-learned.html</link>
+        <guid isPermaLink="true">captainpainway.github.io/today/i/learned/2016/05/22/today-i-learned.html</guid>
+        
+        
+        <category>Today</category>
+        
+        <category>I</category>
+        
+        <category>Learned</category>
+        
+      </item>
+    
+  </channel>
+</rss>
